@@ -1,0 +1,54 @@
+body.main {
+	background-image:url(../images/nature1.jpg);
+	background-repeat: no-repeat;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding: 10px 10px 10px 10px;
+	font-family: Emblema One;
+	font-size: 120%;
+	line-height: 1.5em;}
+	
+h1 {font-size: 250%;}	
+
+h3 {font-size: 150%;
+    font-family: ALGERIAN;
+	text-decoration: underline overline;}
+	
+h3.main{text-decoration:none;}	
+
+a{color: white;
+  font-weight: bolder;
+  text-decoration:none;}
+
+a:hover{background-color:gray;
+        color:purple;
+        text-decoration:underline;
+        font-weight:bold;}
+		
+#dayone {background-color: silver;
+            margin-left: 10%;
+			margin-right: 10%;
+			padding: 10px 10px 10px 10px;
+			font-size: 110%;
+			color:rgb(50, 10, 83);
+			font-weight:bold;}
+			
+#daytwo {background-color: silver;
+            margin-left: 10%;
+			margin-right: 10%;
+			padding: 10px 10px 10px 10px;
+			font-size: 110%;
+			color:rgb(50, 10, 83);
+			font-weight:bold;}
+			
+blockquote {font-style: italic;}
+			
+#daythree {background-color: silver;
+               margin-left: 10%;
+               margin-right: 10%;
+			   padding: 10px 10px 10px 10px;
+			   font-size: 110%;
+			   color:rgb(50, 10, 83); 
+               font-weight:bold;}
+
+#list {background-color: teal;}			   
